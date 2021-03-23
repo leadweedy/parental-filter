@@ -14,7 +14,7 @@
 0.0.0.0 steamcdn-a.akamaihd.net
 0.0.0.0 clientconfig.akamai.steamstatic.com
 0.0.0.0 steamcontent.com
-0.0.0.0 steamstore-a.akamaihd.net   
+0.0.0.0 steamstore-a.akamaihd.net
 0.0.0.0 steamstatic.com
 0.0.0.0 epicgames.com
 0.0.0.0 rbxcdn.com
@@ -23,3 +23,9 @@
 0.0.0.0 api.steampowered.com
 0.0.0.0 sockets.betterttv.net
 0.0.0.0 cloud.bluestacks.com
+0.0.0.0 cdn.akamai.steamstatic.com
+0.0.0.0 us.launcher.battle.net
+0.0.0.0 blizzard.com
+0.0.0.0 level3.blizzard.com
+0.0.0.0 level3.ssl.blizzard.com
+0.0.0.0 us.cdn.blizzard.com
