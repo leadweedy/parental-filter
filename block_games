@@ -1,4 +1,5 @@
 0.0.0.0 battle.net
+0.0.0.0 us.patch.battle.net
 0.0.0.0 twitch.tv
 0.0.0.0 twitch.map.fastly.net
 0.0.0.0 static.twitchcdn.net
@@ -18,3 +19,4 @@
 0.0.0.0 epicgames.com
 0.0.0.0 rbxcdn.com
 0.0.0.0 roblox.com
+0.0.0.0 steamstore-a.akamaihd.net
