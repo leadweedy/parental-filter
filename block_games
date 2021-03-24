@@ -29,3 +29,10 @@
 0.0.0.0 level3.blizzard.com
 0.0.0.0 level3.ssl.blizzard.com
 0.0.0.0 us.cdn.blizzard.com
+0.0.0.0 twitch.amazon.com
+0.0.0.0 h2.twitch.map.fastly.net
+0.0.0.0 cdn.betterttv.net
+0.0.0.0 api.twitch.tv
+0.0.0.0 static-cdn.jtvnw.net
+0.0.0.0 vimeo.map.fastly.net
+0.0.0.0 blzprofile.akamaized.net
