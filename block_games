@@ -25,6 +25,7 @@
 0.0.0.0	cdn.betterttv.net
 0.0.0.0	static-cdn.jtvnw.net
 
+
 # steam
 0.0.0.0 store.steampowered.com
 0.0.0.0 api.steampowered.com
@@ -38,6 +39,8 @@
 0.0.0.0 cdn.cloudflare.steamstatic.com
 0.0.0.0	cm1-dfw1.cm.steampowered.com
 0.0.0.0 cm1-ord1.cm.steampowered.com
+0.0.0.0	media.steampowered.com
+
 
 # roblox
 0.0.0.0 lms.roblox.com
@@ -73,6 +76,7 @@
 0.0.0.0	t7.rbxcdn.com
 0.0.0.0	tr.rbxcdn.com
 
+
 # genshin
 0.0.0.0 genshin.mihoyo.com
 0.0.0.0 genshin.mihoyo.com.w.kunlunsl.com
@@ -86,6 +90,7 @@
 0.0.0.0 mi18n-os.mihoyo.com.w.cdngslb.com
 0.0.0.0 hk4e-api-os.mihoyo.com
 
+
 #blizzard
 0.0.0.0 battle.net
 0.0.0.0 us.patch.battle.net
@@ -98,6 +103,9 @@
 0.0.0.0 us.version.battle.net
 0.0.0.0	blzddist1-a.akamaihd.net
 0.0.0.0	nydus.battle.net
+0.0.0.0	us.actual.battle.net
+0.0.0.0	us.api.blizzard.com
+
 
 # riot (league of legends and valorant)
 0.0.0.0 riotgames.com
@@ -133,13 +141,21 @@
 0.0.0.0	bacon.secure.dyn.riotcdn.net
 0.0.0.0	riot-client.dyn.riotcdn.net
 0.0.0.0	clientconfig.rpg.riotgames.com
-0.0.0.00.0.0.0 thespike.gg
+0.0.0.0 thespike.gg
 0.0.0.0 www.thespike.gg
 0.0.0.0	live-scores.thespike.gg
 0.0.0.0	valorant.secure.dyn.riotcdn.net
 
+# epic
+0.0.0.0 epicgames.com
+0.0.0.0	download.epicgames.com
+0.0.0.0	epicgames-download1.akamaized.net
+0.0.0.0	launcher-public-service-prod06.ol.epicgames.com
+0.0.0.0	account-public-service-prod03.ol.epicgames.com
+0.0.0.0	qos1.ol.epicgames.com
+0.0.0.0 datarouter.ol.epicgames.com
+
 
 # misc
-0.0.0.0 epicgames.com
 0.0.0.0	player.vimeo.com
 0.0.0.0	vimeo.map.fastly.net
