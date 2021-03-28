@@ -40,6 +40,13 @@
 0.0.0.0	cm1-dfw1.cm.steampowered.com
 0.0.0.0 cm1-ord1.cm.steampowered.com
 0.0.0.0	media.steampowered.com
+0.0.0.0	cache3-lax1.steamcontent.com
+0.0.0.0	cache5-lax1.steamcontent.com
+0.0.0.0	cache6-lax1.steamcontent.com
+0.0.0.0	cache15-lax1.steamcontent.com
+0.0.0.0	cache18-lax1.steamcontent.com
+0.0.0.0 cm2-dfw1.cm.steampowered.com
+0.0.0.0 cm2-ord1.cm.steampowered.com
 
 
 # roblox
@@ -89,6 +96,10 @@
 0.0.0.0 mi18n-os.mihoyo.com
 0.0.0.0 mi18n-os.mihoyo.com.w.cdngslb.com
 0.0.0.0 hk4e-api-os.mihoyo.com
+0.0.0.0	minor-api-os.mihoyo.com
+0.0.0.0	sdk-static.mihoyo.com
+0.0.0.0	sdk-os-static.mihoyo.com
+0.0.0.0	hk4e-sdk-os.mihoyo.com
 
 
 #blizzard
@@ -105,6 +116,8 @@
 0.0.0.0	nydus.battle.net
 0.0.0.0	us.actual.battle.net
 0.0.0.0	us.api.blizzard.com
+0.0.0.0	navbar.blizzard.com
+0.0.0.0 www.blizzard.com
 
 
 # riot (league of legends and valorant)
@@ -146,6 +159,7 @@
 0.0.0.0	live-scores.thespike.gg
 0.0.0.0	valorant.secure.dyn.riotcdn.net
 0.0.0.0	pdx2collector.rtp.service.riotgames.com
+0.0.0.0	api.account.riotgames.com
 
 # epic
 0.0.0.0 epicgames.com
@@ -163,9 +177,35 @@
 0.0.0.0 poki.com
 0.0.0.0 jackbox.tv
 
+# osu
+0.0.0.0	osu.ppy.sh
+0.0.0.0	notify.ppy.sh
+0.0.0.0	assets.ppy.sh
+0.0.0.0	bm4.ppy.sh
+0.0.0.0	bm5.ppy.sh
+0.0.0.0	bm6.ppy.sh
+0.0.0.0	bm7.ppy.sh
+0.0.0.0	bm8.ppy.sh
+0.0.0.0	a.ppy.sh
+0.0.0.0	b.ppy.sh
+0.0.0.0	c.ppy.sh
+0.0.0.0	i.ppy.sh
+0.0.0.0	m1.ppy.sh
+0.0.0.0	m2.ppy.sh
+0.0.0.0	m3.ppy.sh
+0.0.0.0	c4.ppy.sh
+
+# bluestacks
+0.0.0.0	cloud.bluestacks.com
+
 
 # misc
 0.0.0.0	player.vimeo.com
 0.0.0.0	vimeo.map.fastly.net
 0.0.0.0 mobalytics.gg
 0.0.0.0	cdnportal.mobalytics.gg
+0.0.0.0	app.mobalytics.gg
+0.0.0.0	api.mobalytics.gg
+0.0.0.0	account.mobalytics.gg
+0.0.0.0	cdn.mobalytics.gg
+0.0.0.0	fastcdn.mobalytics.gg
