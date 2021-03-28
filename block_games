@@ -155,6 +155,13 @@
 0.0.0.0	qos1.ol.epicgames.com
 0.0.0.0 datarouter.ol.epicgames.com
 
+# party games
+0.0.0.0 skribbl.io
+0.0.0.0 scribble-io.online
+0.0.0.0 skribblio.online
+0.0.0.0 poki.com
+0.0.0.0 jackbox.tv
+
 
 # misc
 0.0.0.0	player.vimeo.com
