@@ -159,3 +159,5 @@
 # misc
 0.0.0.0	player.vimeo.com
 0.0.0.0	vimeo.map.fastly.net
+0.0.0.0 mobalytics.gg
+0.0.0.0	cdnportal.mobalytics.gg
