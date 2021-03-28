@@ -1,0 +1,38 @@
+# blocklist for fake news/ conspiracy websites
+
+# fox news
+a57.foxnews.com
+api.foxnews.com
+apps.foxnews.com
+feeds-elections.foxnews.com
+global.fncstatic.com
+my.foxnews.com
+static.foxnews.com
+www.foxbusiness.com
+www.foxnews.com
+
+
+
+# oann
+breitbartproduction.disqus.com
+oann-push.s3-us-west-2.amazonaws.com
+oann.disqus.com
+www.oann.com
+
+
+
+# ny post
+developer.ny-post.cdn.blaize.io
+ny-post-ny-post.cdn.zephr.com
+nyp-web-proxy-ng-lb-1237301934.us-east-1.elb.amazonaws.com
+nypost.com
+zephr-v4.nypost.com
+zephr.nypost.com
+
+
+# newsmax
+www.newsmax.com
+
+
+# hannity.com
+hannity.com
