@@ -12,13 +12,16 @@ www.foxbusiness.com
 www.foxnews.com
 
 
-
 # oann
-breitbartproduction.disqus.com
 oann-push.s3-us-west-2.amazonaws.com
 oann.disqus.com
 www.oann.com
 
+
+# breitbart 
+breitbartproduction.disqus.com
+media.breitbart.com
+www.breitbart.com
 
 
 # ny post
@@ -30,9 +33,42 @@ zephr-v4.nypost.com
 zephr.nypost.com
 
 
-# newsmax
-www.newsmax.com
-
-
-# hannity.com
+# others
+actorsareidiots.com
+afa.net
+americanfamilyassociation.disqus.com
+amgreatness.com
+api-assets.infowars.com
+api.banned.video
+apps.washingtonexaminer.com
+assets.infowarsmedia.com
+bonginoreport.com
+cdn01.dailycaller.com
+cms.zerohedge.com
+daily-wire-production.imgix.net
+dailycaller.com
+dw-wp-production.imgix.net
 hannity.com
+images.dailycaller.com
+images.infowarsmedia.com
+infowarsmedia.com
+kittyhawk.amgreatness.com
+overland.amgreatness.com
+spectator.org
+streams.infowars.com
+talk.zerohedge.com
+thegatewaypundit.disqus.com
+v2server.dailywire.com
+www.afa.net
+www.dailywire.com
+www.infowars.com
+www.newsmax.com
+www.theamericanconservative.com
+www.thegatewaypundit.com
+www.washingtonexaminer.com
+www.westernjournal.com
+www.zerohedge.com
+zerohedge.com
+
+
+
