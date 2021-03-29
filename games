@@ -90,10 +90,13 @@ genshin.mihoyo.com
 genshin.mihoyo.com.w.kunlunsl.com
 hk4e-api-os.mihoyo.com
 hk4e-sdk-os.mihoyo.com
+img-os-static.hoyolab.com
+img-os-static.hoyolab.com.w.cdngslb.com
 log-upload-os.mihoyo.com
 mi18n-os.mihoyo.com
 mi18n-os.mihoyo.com.w.cdngslb.com
 minor-api-os.mihoyo.com
+ocsp.dcocsp.cn.w.kunlunar.com
 sdk-os-static.mihoyo.com
 sdk-static.mihoyo.com
 uploadstatic-sea.mihoyo.com
@@ -134,6 +137,7 @@ ekg.riotgames.com
 entitlements.auth.riotgames.com
 frontpage.na.leagueoflegends.com
 fs.riotgames.com
+glz-na-1.na.a.pvp.net
 live-scores.thespike.gg
 loadouts.na2.leagueoflegends.com
 lolesports.com
@@ -145,6 +149,7 @@ na.store.leagueoflegends.com
 na1.cap.riotgames.com
 na2.chat.si.riotgames.com
 oembed.leagueoflegends.com
+pd.na.a.pvp.net
 pdx2collector.rtp.service.riotgames.com
 pft.leagueoflegends.com
 playerpreferences.riotgames.com
@@ -171,6 +176,7 @@ epicgames-download1.akamaized.net
 epicgames.com
 launcher-public-service-prod06.ol.epicgames.com
 qos1.ol.epicgames.com
+
 
 # party games
 jackbox.tv
