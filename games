@@ -217,6 +217,11 @@ cloud.bluestacks.com
 #i.vimeocdn.com
 
 
+# nvidia
+services.gfe.nvidia.com
+gfwsl.geforce.com
+
+
 # misc
 mobalytics.gg
 cdnportal.mobalytics.gg
