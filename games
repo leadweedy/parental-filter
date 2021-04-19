@@ -24,6 +24,12 @@ twitch.amazon.com
 twitch.amazon.com
 twitch.map.fastly.net
 twitch.tv
+cvp.twitch.tv
+p.twitchcdn.net
+www.twitch.tv
+gql.twitch.tv
+irc-ws.chat.twitch.tv
+m.twitch.tv
 
 
 # steam
@@ -122,6 +128,14 @@ us.launcher.battle.net
 us.patch.battle.net
 us.version.battle.net
 www.blizzard.com
+blzmedia-a.akamaihd.net
+bneteu-a.akamaihd.net
+eu.battle.net
+bnetproduct-a.akamaihd.net
+blznav.akamaized.net
+bnetshopus.akamaized.net
+us.shop.battle.net
+shop.battle.net
 
 
 # riot (league of legends and valorant)
