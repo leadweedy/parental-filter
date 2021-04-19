@@ -239,6 +239,18 @@ cloud.bluestacks.com
 # nvidia
 services.gfe.nvidia.com
 gfwsl.geforce.com
+api-prod.nvidia.com
+prod.cloudmatchbeta.nvidiagrid.net
+layouts.nvidiagrid.net
+login.nvidia.com
+blogs.nvidia.com
+images.nvidia.com
+www.nvidia.com
+login.nvgs.nvidia.com
+accounts-low-latency.nvgs.nvidia.com
+accounts.nvgs.nvidia.com
+
+
 
 
 # misc
