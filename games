@@ -196,6 +196,11 @@ epicgames-download1.akamaized.net
 epicgames.com
 launcher-public-service-prod06.ol.epicgames.com
 qos1.ol.epicgames.com
+download2.epicgames.com
+launcher-public-service-prod.ak.epicgames.com
+account-public-service-prod.ak.epicgames.com
+datarouter-prod.ak.epicgames.com
+qos2.ol.epicgames.com
 
 
 # party games
@@ -261,3 +266,5 @@ account.mobalytics.gg
 cdn.mobalytics.gg
 fastcdn.mobalytics.gg
 www.vlr.gg
+garticphone.com
+sv-29.garticphone.com
