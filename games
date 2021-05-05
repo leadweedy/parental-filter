@@ -210,6 +210,19 @@ datarouter-prod.ak.epicgames.com
 qos2.ol.epicgames.com
 
 
+# blitz.gg
+blitz-analytics-snowflake.s3.us-east-2.amazonaws.com
+blitz-snowflake.iesdev.com
+blitz-cdn.blitz.gg
+prebid.blitz.gg
+blitz-cms.iesdev.com
+auth.blitz.gg
+blitz-cdn-plain.blitz.gg
+blitz-desktop.blitz.gg
+blitz.gg
+blitz-stable.blitz.gg
+
+
 # party games
 jackbox.tv
 poki.com
