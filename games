@@ -1,35 +1,45 @@
 # twitch
-api.twitch.tv
+api.betterttv.net
 api.twitch.tv
 betterttv.net
 cdn.betterttv.net
-cdn.betterttv.net
 clips-media-assets2.twitch.tv
+cvp.twitch.tv
+emoji.twemoji.netdna-cdn.com
 extension-files.twitch.tv
 extensions-discovery-images.twitch.tv
-extensions-discovery-images.twitch.tv
-h2.twitch.map.fastly.net
+gql.twitch.tv
 h2.twitch.map.fastly.net
 irc-ws.chat.twitch.tv
+m.twitch.tv
 media.amazon.map.fastly.net
+p.twitchcdn.net
+panels-images.twitch.tv
 pubsub-edge.twitch.tv
 sockets.betterttv.net
-static-cdn.jtvnw.net
 static-cdn.jtvnw.net
 static.twitchcdn.net
 supervisor.ext-twitch.tv
 ttvnw.net
 twemoji.maxcdn.com
 twitch.amazon.com
-twitch.amazon.com
 twitch.map.fastly.net
 twitch.tv
-cvp.twitch.tv
-p.twitchcdn.net
+usher.ttvnw.net
+video-edge-708295.pdx01.abs.hls.ttvnw.net
+video-edge-83ea16.pdx01.abs.hls.ttvnw.net
+video-edge-c67a5c.lax03.abs.hls.ttvnw.net
+video-edge-c67ae8.lax03.abs.hls.ttvnw.net
+video-edge-c68030.lax03.abs.hls.ttvnw.net
+video-edge-c68300.lax03.abs.hls.ttvnw.net
+video-edge-c68448.lax03.abs.hls.ttvnw.net
+video-edge-c6859c.lax03.abs.hls.ttvnw.net
+video-edge-c8e518.lax03.abs.hls.ttvnw.net
+video-edge-c8fcf0.lax03.abs.hls.ttvnw.net
+video-weaver.lax03.hls.ttvnw.net
+vod-secure.twitch.tv
+wi08ebtatdc7oj83wtl9uxwz807l8b.ext-twitch.tv
 www.twitch.tv
-gql.twitch.tv
-irc-ws.chat.twitch.tv
-m.twitch.tv
 
 
 # steam
