@@ -119,35 +119,37 @@ webstatic-sea.mihoyo.com.w.kunlunsl.com
 
 
 #blizzard
+account.blizzard.com
 battle.net
 blizzard.com
+blzaccount.akamaized.net
 blzddist1-a.akamaihd.net
+blzmedia-a.akamaihd.net
+blznav.akamaized.net
 blzprofile.akamaized.net
+bneteu-a.akamaihd.net
+bnetproduct-a.akamaihd.net
+bnetshopus.akamaized.net
+bnetus-a.akamaihd.net
 cache-cms-ext-us.battle.net
+eu.battle.net
+images.blz-contentstack.com
+internalcheck.corp.blizzard.net
 level3.blizzard.com
 level3.ssl.blizzard.com
 navbar.blizzard.com
 nydus.battle.net
+overwatch-hotfix.cdn.blizzard.com
+shop.battle.net
 us.actual.battle.net
 us.api.blizzard.com
+us.battle.net
 us.cdn.blizzard.com
 us.launcher.battle.net
 us.patch.battle.net
+us.shop.battle.net
 us.version.battle.net
 www.blizzard.com
-blzmedia-a.akamaihd.net
-bneteu-a.akamaihd.net
-eu.battle.net
-bnetproduct-a.akamaihd.net
-blznav.akamaized.net
-bnetshopus.akamaized.net
-us.shop.battle.net
-shop.battle.net
-bnetus-a.akamaihd.net
-us.battle.net
-blzaccount.akamaized.net
-account.blizzard.com
-images.blz-contentstack.com
 
 
 # riot (league of legends and valorant)
