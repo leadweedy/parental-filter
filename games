@@ -196,18 +196,39 @@ www.thespike.gg
 
 
 # epic
+account-public-service-prod.ak.epicgames.com
 account-public-service-prod03.ol.epicgames.com
+api.epicgames.dev
+catalog-public-service-prod06.ol.epicgames.com
+cdn1.epicgames.com
+connect.ol.epicgames.com
+datarouter-prod.ak.epicgames.com
 datarouter.ol.epicgames.com
 download.epicgames.com
+download2.epicgames.com
+ecommerceintegration-public-service-ecomprod02.ol.epicgames.com
+egp-idsoc-proxy-prod.ol.epicgames.com
+entitlement-public-service-prod08.ol.epicgames.com
+epic-social-social-modules-prod.ol.epicgames.com
 epicgames-download1.akamaized.net
 epicgames.com
-launcher-public-service-prod06.ol.epicgames.com
-qos1.ol.epicgames.com
-download2.epicgames.com
+eulatracking-public-service-prod06.ol.epicgames.com
+fastly-download.epicgames.com
+friends-public-service-prod06.ol.epicgames.com
 launcher-public-service-prod.ak.epicgames.com
-account-public-service-prod.ak.epicgames.com
-datarouter-prod.ak.epicgames.com
+launcher-public-service-prod06.ol.epicgames.com
+library-service.live.use1a.on.epicgames.com
+lightswitch-public-service-prod06.ol.epicgames.com
+priceengine-public-service-ecomprod01.ol.epicgames.com
+qos1.ol.epicgames.com
 qos2.ol.epicgames.com
+qos4.ol.epicgames.com
+social-overlay-launchdarkly-api-prod.ol.epicgames.com
+static-assets-prod.epicgames.com
+store-launcher.epicgames.com
+store-site-backend-static.ak.epicgames.com
+www.epicgames.com
+xmpp-service-prod.ol.epicgames.com
 
 
 # blitz.gg
@@ -229,6 +250,7 @@ poki.com
 scribble-io.online
 skribbl.io
 skribblio.online
+
 
 # osu
 a.ppy.sh
@@ -276,6 +298,21 @@ accounts-low-latency.nvgs.nvidia.com
 accounts.nvgs.nvidia.com
 
 
+# respawn entertainment
+r5-assets.stryder.respawn.com
+r5-crossplay-sub-14.r5prod.stryder.respawn.com
+r5-crossplay-sub.r5prod.stryder.respawn.com
+r5-crossplay.r5prod.stryder.respawn.com
+
+
+# ea games
+accounts.ea.com
+friends.gs.ea.com
+gateway.ea.com
+groups.gameservices.ea.com
+pr-5c2f1a37a251ff2a6a8c6eab.data.ea.com
+rtm.tnt-ea.com
+
 
 # misc
 mobalytics.gg
@@ -288,3 +325,4 @@ fastcdn.mobalytics.gg
 www.vlr.gg
 garticphone.com
 sv-29.garticphone.com
+hydra.easyanticheat.net
