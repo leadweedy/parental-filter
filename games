@@ -158,15 +158,16 @@ auth.riotgames.com
 authenticate.riotgames.com
 bacon.secure.dyn.riotcdn.net
 clientconfig.rpg.riotgames.com
-clientconfig.rpg.riotgames.com
 data.riotgames.com
 ekg.riotgames.com
 entitlements.auth.riotgames.com
 frontpage.na.leagueoflegends.com
 fs.riotgames.com
 glz-na-1.na.a.pvp.net
+la1.chat.si.riotgames.com
 live-scores.thespike.gg
 loadouts.na2.leagueoflegends.com
+lol.secure.dyn.riotcdn.net
 lolesports.com
 lolstatic-a.akamaihd.net
 na.ledge.leagueoflegends.com
@@ -183,15 +184,19 @@ playerpreferences.riotgames.com
 prod.na2.lol.riotgames.com
 riot-client.dyn.riotcdn.net
 riot-geo.pas.si.riotgames.com
+riot-geo.vts.si.riotgames.com
 riotcdn.net
 riotgames.com
 riotgames.com.cdn.cloudflare.net
+ritoplus.secure.dyn.riotcdn.net
 shared.na.a.pvp.net
 sieve.services.riotcdn.net
 thespike.gg
 us.edge.rms.si.riotgames.com
 usw.pp.riotgames.com
+valorant.dyn.riotcdn.net
 valorant.secure.dyn.riotcdn.net
+wildrift.secure.dyn.riotcdn.net
 www.thespike.gg
 
 
