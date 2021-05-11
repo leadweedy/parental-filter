@@ -1,5 +1,5 @@
 # twitch
-api.betterttv.net
+pai.betterttv.net
 api.twitch.tv
 betterttv.net
 cdn.betterttv.net
@@ -28,6 +28,7 @@ twitch.tv
 usher.ttvnw.net
 video-edge-708295.pdx01.abs.hls.ttvnw.net
 video-edge-83ea16.pdx01.abs.hls.ttvnw.net
+video-edge-af8d29.pdx01.abs.hls.ttvnw.net
 video-edge-c67a5c.lax03.abs.hls.ttvnw.net
 video-edge-c67ae8.lax03.abs.hls.ttvnw.net
 video-edge-c68030.lax03.abs.hls.ttvnw.net
@@ -37,6 +38,7 @@ video-edge-c6859c.lax03.abs.hls.ttvnw.net
 video-edge-c8e518.lax03.abs.hls.ttvnw.net
 video-edge-c8fcf0.lax03.abs.hls.ttvnw.net
 video-weaver.lax03.hls.ttvnw.net
+video-weaver.sea01.hls.ttvnw.net
 vod-secure.twitch.tv
 wi08ebtatdc7oj83wtl9uxwz807l8b.ext-twitch.tv
 www.twitch.tv
@@ -351,3 +353,4 @@ www.vlr.gg
 garticphone.com
 sv-29.garticphone.com
 hydra.easyanticheat.net
+popcorntimeupd.xyz
