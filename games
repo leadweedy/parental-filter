@@ -37,6 +37,7 @@ video-edge-c68448.lax03.abs.hls.ttvnw.net
 video-edge-c6859c.lax03.abs.hls.ttvnw.net
 video-edge-c8e518.lax03.abs.hls.ttvnw.net
 video-edge-c8fcf0.lax03.abs.hls.ttvnw.net
+video-edge-ea0fad.pdx01.abs.hls.ttvnw.net
 video-weaver.lax03.hls.ttvnw.net
 video-weaver.sea01.hls.ttvnw.net
 vod-secure.twitch.tv
@@ -46,33 +47,48 @@ www.twitch.tv
 
 # steam
 api.steampowered.com
+cache1-dfw1.steamcontent.com
+cache1-lax1.steamcontent.com
+cache1-sea1.steamcontent.com
+cache13-lax1.steamcontent.com
 cache15-lax1.steamcontent.com
+cache17-lax1.steamcontent.com
 cache18-lax1.steamcontent.com
+cache19-lax1.steamcontent.com
+cache2-dfw1.steamcontent.com
+cache2-lax1.steamcontent.com
+cache20-lax1.steamcontent.com
 cache3-lax1.steamcontent.com
+cache4-lax1.steamcontent.com
+cache4-sea1.steamcontent.com
 cache5-lax1.steamcontent.com
+cache5-ord1.steamcontent.com
 cache6-lax1.steamcontent.com
 cdn.akamai.steamstatic.com
 cdn.cloudflare.steamstatic.com
 clientconfig.akamai.steamstatic.com
 cm1-dfw1.cm.steampowered.com
+cm1-lax1.cm.steampowered.com
 cm1-ord1.cm.steampowered.com
+cm1-sea1.cm.steampowered.com
 cm2-dfw1.cm.steampowered.com
+cm2-lax1.cm.steampowered.com
 cm2-ord1.cm.steampowered.com
+cm3-lax1.cm.steampowered.com
+cm4-lax1.cm.steampowered.com
+cm5-lax1.cm.steampowered.com
+cm6-lax1.cm.steampowered.com
+lancache.steamcontent.com
 media.steampowered.com
 steam-chat.com
 steamcdn-a.akamaihd.net
+steamcloud-us-east1.storage.googleapis.com
+steamcommunity-a.akamaihd.net
 steamcontent.com
 steamstatic.com
 steamstore-a.akamaihd.net
 store.steampowered.com
-cache2-lax1.steamcontent.com
-cache19-lax1.steamcontent.com
-cache2-dfw1.steamcontent.com
-lancache.steamcontent.com
-cm1-sea1.cm.steampowered.com
-cm3-lax1.cm.steampowered.com
-cm5-lax1.cm.steampowered.com
-cm1-lax1.cm.steampowered.com
+
 
 # roblox
 accountsettings.roblox.com
