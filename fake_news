@@ -1,4 +1,4 @@
-# blocklist for fake news/ conspiracy websites
+# blocklist for fake news / conspiracy / and propoganda websites
 
 # fox news
 a57.foxnews.com
@@ -35,6 +35,19 @@ zephr-v4.nypost.com
 zephr.nypost.com
 
 
+# russia times
+cdni.rt.com
+cdnen.rt.com
+www.rt.com
+
+
+# sputnik news
+cm.sputniknews.com
+a.sputniknews.com
+cdnn1.img.sputniknews.com
+sputniknews.com
+
+
 # others
 actorsareidiots.com
 afa.net
@@ -46,10 +59,12 @@ apps.washingtonexaminer.com
 assets.infowarsmedia.com
 bonginoreport.com
 cdn01.dailycaller.com
+cdn.frankspeech.com
 cms.zerohedge.com
 daily-wire-production.imgix.net
 dailycaller.com
 dw-wp-production.imgix.net
+frankspeech.com
 hannity.com
 images.dailycaller.com
 images.infowarsmedia.com
@@ -64,6 +79,7 @@ v2server.dailywire.com
 www.afa.net
 www.dailywire.com
 www.infowars.com
+www.frankspeech.com
 www.newsmax.com
 www.theamericanconservative.com
 www.thegatewaypundit.com
